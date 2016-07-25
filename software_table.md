@@ -1,4 +1,4 @@
-->Morrell Lab software comparison table<-
+<center>Morrell Lab software comparison table</center>
 ======================================================
 ***************
 | Software | lab version | MSI version | latest Version | URL | comments | is it up to date: Lab/MSI |
