@@ -1,7 +1,7 @@
-# **Software table**
-___
-
-| Software | lab version | MSI version | latest Version | URL | comments | up to date: Lab - MSI |
+<center>Morrell Lab software comparison table</center>
+======================================================
+***************
+| Software | lab version | MSI version | latest Version | URL | comments | is it up to date: Lab/MSI |
 | -------- | ----------- | ----------- | -------------- | --- | -------- | ---------- |
 | Bedtools | 2.19.1 (04-04-14) | 2.25.0 | 2.26.0 (07-06-16) | [Bed Tools](https://github.com/arq5x/bedtools2) |none | [ ] [ ] |
 | Scythe | .992-BETA (04-04-14) | not installed | not stated (last commit: 06-06-16)| [Scythe](https://github.com/vsbuffalo/scythe) | no version stated | [ ] [ ] |
