@@ -7,7 +7,7 @@
 | Scythe | .992-BETA (04-04-14) | not in MSI | not stated (last commit: 06-06-16)| [Scythe](https://github.com/vsbuffalo/scythe) | no version stated on site and not in MSI | [ ] [ ] |
 | BWA | 0.7.8 (04-04-14) | 0.7.12 | 0.7.15 (06-01-16) | [BWA](http://bio-bwa.sourceforge.net/) | none | [ ] [ ] |
 | Bowtie2 | 2.2.1(04-04-14) | 2.2.4 | 2.2.9 (04-22-16) | [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) |MSI also has Bowtie/2.2.4 | [ ] [ ] | 
-| SAM Tools | 0.1.19 (04-04-14) | 1.3 | 1.3.1 (04-22.16) | [SAM Tools](http://www.htslib.org/) | Pre-release version on githib: 1.5 | [ ] [X] |
+| SAM Tools | 0.1.19 (04-04-14) | 1.3 | 1.3.1 (04-22.16) | [SAM Tools](http://www.htslib.org/) | Pre-release version on githib: 1.5 | [ ] [ ] |
 | Picard | 1.118 (07-28-14) | 2.3.0 (06-23-16) | 2.5.0 (06-23-16) | [Picard](http://broadinstitute.github.io/picard/) | none | [ ] [ ] |
 | ms | unknown version | msff: 0.1.5 / msstats: 0.3.1 | unknown version - updated on 06-06-16 | [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html) | none | [ ] [ ] |
 | VCF Tools | 0.1.12a (04-04-14) | not in MSI | 0.1.14 | [VCF Tools](https://vcftools.github.io/downloads.html) | not in MSI | [ ] [ ] |
