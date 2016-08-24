@@ -3,7 +3,7 @@
 ***************
 | Software | lab version | MSI version | latest Version | URL | comments | is it up to date: Lab/MSI |
 | -------- | ----------- | ----------- | -------------- | --- | -------- | ---------- |
-| Bedtools | 2.19.1 (04-04-14) | 2.25.0 | 2.26.0 (07-06-16) | [Bed Tools](https://github.com/arq5x/bedtools2) |none | [X] [ ] |
+| Bedtools | 2.23.0 (08-24-16) | 2.25.0 | 2.26.0 (07-06-16) | [Bed Tools](https://github.com/arq5x/bedtools2) |none | [X] [ ] |
 | Scythe | .992-BETA (04-04-14) | not in MSI | not stated (last commit: 06-06-16)| [Scythe](https://github.com/vsbuffalo/scythe) | no version stated on site and not in MSI | [ ] [ ] |
 | BWA | 0.7.8 (04-04-14) | 0.7.12 | 0.7.15 (06-01-16) | [BWA](http://bio-bwa.sourceforge.net/) | none | [ ] [ ] |
 | Bowtie2 | 2.2.1(04-04-14) | 2.2.4 | 2.2.9 (04-22-16) | [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) |MSI also has Bowtie/2.2.4 | [ ] [ ] | 
