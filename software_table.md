@@ -6,7 +6,7 @@
 | Bedtools | 2.23.0 (08-24-16) | 2.25.0 | 2.26.0 (07-06-16) | [Bed Tools](https://github.com/arq5x/bedtools2) | also installed: 2.26.0 | [X] [ ] |
 | Scythe | .994-BETA (08-25-16) | not in MSI | .994 | [Scythe](https://github.com/vsbuffalo/scythe) | .992 also installed | [X] [ ] |
 | BWA | 0.7.15 (08-08-14) | 0.7.12 | 0.7.15 (06-01-16) | [BWA](http://bio-bwa.sourceforge.net/) | pre versions: 7.10, 7.12 | [X] [ ] |
-| Bowtie2 | 2.2.1(04-04-14) | 2.2.4 | 2.2.9 (04-22-16) | [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) |MSI also has Bowtie/2.2.4 | [ ] [ ] | 
+| Bowtie2 | 2.29 (08-27-16) | 2.2.4 | 2.2.9 (04-22-16) | [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) |MSI also has Bowtie/2.2.4 | [X] [ ] | 
 | SAM Tools | 1.3.1 (08-25-16)) | 1.3 | 1.3.1 (04-22.16) | [SAM Tools](http://www.htslib.org/) | Pre-release version on githib: 1.5 | [X[ ] |
 | Picard | 1.118 (07-28-14) | 2.3.0 (06-23-16) | 2.5.0 (06-23-16) | [Picard](http://broadinstitute.github.io/picard/) | none | [ ] [ ] |
 | ms | unknown updated: 08-25-16 | msff: 0.1.5 / msstats: 0.3.1 | unknown version - updated on 06-06-16 | [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html) | none | [X] [ ] |
