@@ -6,12 +6,12 @@
 | Bedtools | 2.23.0 (08-24-16) | 2.25.0 | 2.26.0 (07-06-16) | [Bed Tools](https://github.com/arq5x/bedtools2) | also installed: 2.26.0 | [X] [ ] |
 | Scythe | .994-BETA (08-25-16) | not in MSI | .994 | [Scythe](https://github.com/vsbuffalo/scythe) | .992 also installed | [X] [ ] |
 | BWA | 0.7.15 (08-08-14) | 0.7.12 | 0.7.15 (06-01-16) | [BWA](http://bio-bwa.sourceforge.net/) | pre versions: 7.10, 7.12 | [X] [ ] |
-| Bowtie2 | 2.29 (08-27-16) | 2.2.4 | 2.2.9 (04-22-16) | [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) |MSI also has Bowtie/2.2.4 | [X] [ ] | 
+| Bowtie2 | 2.29 (08-27-16) | 2.2.4 | 2.2.9 (04-22-16) | [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) |MSI also has Bowtie/2.2.4, Lab also installed: 2.21, 2.23, 2.26, 2.29 | [X] [ ] | 
 | SAM Tools | 1.3.1 (08-25-16)) | 1.3 | 1.3.1 (04-22.16) | [SAM Tools](http://www.htslib.org/) | Pre-release version on githib: 1.5 | [X[ ] |
 | Picard | 1.118 (07-28-14) | 2.3.0 (06-23-16) | 2.5.0 (06-23-16) | [Picard](http://broadinstitute.github.io/picard/) | none | [ ] [ ] |
 | ms | unknown updated: 08-25-16 | msff: 0.1.5 / msstats: 0.3.1 | unknown version - updated on 06-06-16 | [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html) | none | [X] [ ] |
 | VCF Tools | 0.1.14 (08-25-16) | not in MSI | 0.1.14 | [VCF Tools](https://vcftools.github.io/downloads.html) | not in MSI | [X] [ ] |
-| GATK | 3.2-2 (07-2-14) | 3.3.0 | 3.6 (06-01-16) | [GATK](http://www.broadinstitute.org/gatk/) | MSI has newer versions but they're not the default: MSI Versions: 3.4, 3.5 & 3.6 | [ ] [ ] |
+| GATK | 3.6 (08-27-16) | 3.3.0 | 3.6 (06-01-16) | [GATK](http://www.broadinstitute.org/gatk/) | Lab also installed: 3.2, 3.5 & 3.6 | [X] [ ] |
 | CAP3 | unknown version (04-04-14) | 3 | not stated | [CAP3](http://seq.cs.iastate.edu/) | none | [ ] [ ] |
 | Poly Phen 2 | 2.2.2r405a (07-18-16) | not in MSI | 2.2.2r | [Poly Phen2](http://seq.cs.iastate.edu/) | not in MSI | [X] [ ] |
 | Tablet | 1.14.04.10 (05-9-14) | not in MSI | 1.15.09.01 (09-01-15) | [Tablet](http://ics.hutton.ac.uk/tablet/) | not in MSI | [X] [ ] |
