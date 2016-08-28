@@ -8,7 +8,7 @@
 | BWA | 0.7.15 (08-08-14) | 0.7.12 | 0.7.15 (06-01-16) | [BWA](http://bio-bwa.sourceforge.net/) | pre versions: 7.10, 7.12 | [X] [ ] |
 | Bowtie2 | 2.29 (08-27-16) | 2.2.4 | 2.2.9 (04-22-16) | [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) |MSI also has Bowtie/2.2.4, Lab also installed: 2.21, 2.23, 2.26, 2.29 | [X] [ ] | 
 | SAM Tools | 1.3.1 (08-25-16)) | 1.3 | 1.3.1 (04-22.16) | [SAM Tools](http://www.htslib.org/) | Pre-release version on githib: 1.5 | [X] [ ] |
-| Picard | 1.118 (07-28-14) | 2.3.0 (06-23-16) | 2.5.0 (06-23-16) | [Picard](http://broadinstitute.github.io/picard/) | none | [ ] [ ] |
+| Picard | 2.5.0 (08-26-16) | 2.3.0 (06-23-16) | 2.5.0 (06-23-16) | [Picard](http://broadinstitute.github.io/picard/) | Lab also installed: 1.118 | [X] [ ] |
 | ms | unknown updated: 08-25-16 | msff: 0.1.5 / msstats: 0.3.1 | unknown version - updated on 06-06-16 | [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html) | none | [X] [ ] |
 | VCF Tools | 0.1.14 (08-25-16) | not in MSI | 0.1.14 | [VCF Tools](https://vcftools.github.io/downloads.html) | not in MSI | [X] [ ] |
 | GATK | 3.6 (08-27-16) | 3.3.0 | 3.6 (06-01-16) | [GATK](http://www.broadinstitute.org/gatk/) | Lab also installed: 3.2, 3.5 & 3.6 | [X] [ ] |
