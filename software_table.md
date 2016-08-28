@@ -12,7 +12,7 @@
 | ms | unknown updated: 08-25-16 | msff: 0.1.5 / msstats: 0.3.1 | unknown version - updated on 06-06-16 | [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html) | none | [X] [ ] |
 | VCF Tools | 0.1.14 (08-25-16) | not in MSI | 0.1.14 | [VCF Tools](https://vcftools.github.io/downloads.html) | not in MSI | [X] [ ] |
 | GATK | 3.6 (08-27-16) | 3.3.0 | 3.6 (06-01-16) | [GATK](http://www.broadinstitute.org/gatk/) | Lab also installed: 3.2, 3.5 & 3.6 | [X] [ ] |
-| CAP3 | unknown version (04-04-14) | 3 | not stated | [CAP3](http://seq.cs.iastate.edu/) | none | [ ] [ ] |
+| CAP3 | V-2015 | 3 | V-2015 | [CAP3](http://seq.cs.iastate.edu/) | Lab also installed:v-2013 | [X] [ ] |
 | Poly Phen 2 | 2.2.2r405a (07-18-16) | not in MSI | 2.2.2r | [Poly Phen2](http://seq.cs.iastate.edu/) | not in MSI | [X] [ ] |
 | Tablet | 1.15.09.01 (08-25-16) | not in MSI | 1.15.09.01 (09-01-15) | [Tablet](http://ics.hutton.ac.uk/tablet/) | not in MSI, Lab also installed: 1.14.04.10 | [X] [ ] |
 | Variant-Effect-Predictor | not stated (06-30-14) | not in MSI | web portal version: not stated, Pearl extension: release 84 (03-02-16) | [Variant-Effect-Predictor](http://ensembl.gramene.org/info/docs/tools/vep/index.html) | not in MSI | [ ] [ ] |
