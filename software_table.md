@@ -22,4 +22,5 @@
 | STRUCTURE | 2.3.4 (08-18-14) | 2.3.3 | 2.3.4 | [STRUCTURE](http://pritchardlab.stanford.edu/structure.html) | no updates since 2.3.4, MSI has latest but defaults to 2.3.3 | [X] [ ] |
 | FastX-Toolkit & Libtool | 0.0.14 , 2.2.6 (08-27-16) | 0.0.14 | 0.0.14 (01-5-14) | [FastX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/download.html) | Lab also installed: FastX 0.0.6 | [X] [ ] | 
 | Sickle | 1.33 | not in MSI | 1.33 | [Sickle](https://github.com/ucdavis-bioinformatics/sickle) | not in MSI | [X] [ ] | 
+| Fast STRUCTURE | 1.0 | | 1.0 | [Fast Structure](https://rajanil.github.io/fastStructure/) | none | [ ] [ ] |
 | Morrell Lab ANGSD-Wrapper Archive | N/A | not in MSI | removed from lab | no URL | not in MSI | [ ] [ ] | 
