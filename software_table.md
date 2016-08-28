@@ -14,7 +14,7 @@
 | GATK | 3.6 (08-27-16) | 3.3.0 | 3.6 (06-01-16) | [GATK](http://www.broadinstitute.org/gatk/) | Lab also installed: 3.2, 3.5 & 3.6 | [X] [ ] |
 | CAP3 | unknown version (04-04-14) | 3 | not stated | [CAP3](http://seq.cs.iastate.edu/) | none | [ ] [ ] |
 | Poly Phen 2 | 2.2.2r405a (07-18-16) | not in MSI | 2.2.2r | [Poly Phen2](http://seq.cs.iastate.edu/) | not in MSI | [X] [ ] |
-| Tablet | 1.14.04.10 (05-9-14) | not in MSI | 1.15.09.01 (09-01-15) | [Tablet](http://ics.hutton.ac.uk/tablet/) | not in MSI | [X] [ ] |
+| Tablet | 1.15.09.01 (08-25-16) | not in MSI | 1.15.09.01 (09-01-15) | [Tablet](http://ics.hutton.ac.uk/tablet/) | not in MSI, also installed: 1.14.04.10 | [X] [ ] |
 | Variant-Effect-Predictor | not stated (06-30-14) | not in MSI | web portal version: not stated, Pearl extension: release 84 (03-02-16) | [Variant-Effect-Predictor](http://ensembl.gramene.org/info/docs/tools/vep/index.html) | not in MSI | [ ] [ ] |
 | ANGSD & Htslib | angsd: .912, Htslib: 1.3.1 (08-27-16) | not in MSI | 0.912/0.913 (07/06/16) | [ANGSD](http://www.popgen.dk/angsd/index.php/Main_Page) | not in MSI, Lab also installed: angsd: .901 | [X] [ ] | 
 | NGS Tools | unknown version (06-12-14) | not in MSI | 1.0.1 (05-20-16) | [NGS Tools](https://github.com/mfumagalli/ngsTools) | not in MSI | [ ] [ ] | 
