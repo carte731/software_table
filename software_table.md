@@ -20,6 +20,6 @@
 | NGS Tools | unknown version (06-12-14) | not in MSI | 1.0.1 (05-20-16) | [NGS Tools](https://github.com/mfumagalli/ngsTools) | not in MSI, Lab also installed: angsd: .901 | [ ] [ ] | 
 | SRA Toolkit | 2.70 (08-27-16) | 2.5.4 | 2.7.0 (07-14-16) | [SRA Toolkit](http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software) | nLab also installed: 2.3.5-2 | [X] [ ] |
 | STRUCTURE | 2.3.4 (08-18-14) | 2.3.3 | 2.3.4 | [STRUCTURE](http://pritchardlab.stanford.edu/structure.html) | no updates since 2.3.4, MSI has latest but defaults to 2.3.3 | [X] [ ] |
-| FastX-Toolkit | unknown version (10-24-14) | 0.0.14 | 0.0.60 (2-25-09) | [FastX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/download.html) | none | [ ] [ ] | 
+| FastX-Toolkit & Libtool | 0.0.14 , 2.2.6 (08-27-16) | 0.0.14 | 0.0.14 (01-5-14) | [FastX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/download.html) | Lab also installed: FastX 0.0.6 | [X] [ ] | 
 | Sickle | 1.33 | not in MSI | 1.33 | [Sickle](https://github.com/ucdavis-bioinformatics/sickle) | not in MSI | [X] [ ] | 
 | Morrell Lab ANGSD-Wrapper Archive | N/A | not in MSI | removed from lab | no URL | not in MSI | [ ] [ ] | 
