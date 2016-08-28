@@ -16,9 +16,9 @@
 | Poly Phen 2 | 2.2.2r405a (07-18-16) | not in MSI | 2.2.2r | [Poly Phen2](http://seq.cs.iastate.edu/) | not in MSI | [X] [ ] |
 | Tablet | 1.14.04.10 (05-9-14) | not in MSI | 1.15.09.01 (09-01-15) | [Tablet](http://ics.hutton.ac.uk/tablet/) | not in MSI | [X] [ ] |
 | Variant-Effect-Predictor | not stated (06-30-14) | not in MSI | web portal version: not stated, Pearl extension: release 84 (03-02-16) | [Variant-Effect-Predictor](http://ensembl.gramene.org/info/docs/tools/vep/index.html) | not in MSI | [ ] [ ] |
-| ANGSD & Htslib | angsd: .912, Htslib: 1.3.1 (08-27-16) | not in MSI | 0.912/0.913 (07/06/16) | [ANGSD](http://www.popgen.dk/angsd/index.php/Main_Page) | not in MSI | [ ] [ ] | 
-| NGS Tools | unknown version (06-12-14) | not in MSI | 1.0.1 (05-20-16) | [NGS Tools](https://github.com/mfumagalli/ngsTools) | not in MSI, Lab also installed: angsd: .901 | [X] [ ] | 
-| SRA Toolkit | 2.3.5-2 (06-16-14) | 2.5.4 | 2.7.0 (07-14-16) | [SRA Toolkit](http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software) | none | [ ] [ ] |
+| ANGSD & Htslib | angsd: .912, Htslib: 1.3.1 (08-27-16) | not in MSI | 0.912/0.913 (07/06/16) | [ANGSD](http://www.popgen.dk/angsd/index.php/Main_Page) | not in MSI | [X] [ ] | 
+| NGS Tools | unknown version (06-12-14) | not in MSI | 1.0.1 (05-20-16) | [NGS Tools](https://github.com/mfumagalli/ngsTools) | not in MSI, Lab also installed: angsd: .901 | [ ] [ ] | 
+| SRA Toolkit | 2.70 (08-27-16) | 2.5.4 | 2.7.0 (07-14-16) | [SRA Toolkit](http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software) | nLab also installed: 2.3.5-2 | [X] [ ] |
 | STRUCTURE | 2.3.4 (08-18-14) | 2.3.3 | 2.3.4 | [STRUCTURE](http://pritchardlab.stanford.edu/structure.html) | no updates since 2.3.4, MSI has latest but defaults to 2.3.3 | [X] [ ] |
 | FastX-Toolkit | unknown version (10-24-14) | 0.0.14 | 0.0.60 (2-25-09) | [FastX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/download.html) | none | [ ] [ ] | 
 | Sickle | 1.33 | not in MSI | 1.33 | [Sickle](https://github.com/ucdavis-bioinformatics/sickle) | not in MSI | [X] [ ] | 
