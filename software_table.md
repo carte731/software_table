@@ -23,4 +23,5 @@
 | FastX-Toolkit & Libtool | 0.0.14 , 2.2.6 (08-27-16) | 0.0.14 | 0.0.14 (01-5-14) | [FastX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/download.html) | Lab also installed: FastX 0.0.6 | [X] [ ] | 
 | Sickle | 1.33 | not in MSI | 1.33 | [Sickle](https://github.com/ucdavis-bioinformatics/sickle) | not in MSI | [X] [ ] | 
 | Fast STRUCTURE | 1.0 | Not in MSI | 1.0 | [Fast Structure](https://rajanil.github.io/fastStructure/) | none | [X] [ ] |
+| Bedops | 2.4.20 (08-30-16) | Not in MSI | 2.4.20 (07-27-16) | [Bedops](http://bedops.readthedocs.io/en/latest/index.html#) | None | [X] [ ] | 
 | Morrell Lab ANGSD-Wrapper Archive | N/A | not in MSI | removed from lab | no URL | not in MSI | N/A | 
